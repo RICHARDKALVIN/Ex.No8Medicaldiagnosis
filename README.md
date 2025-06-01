@@ -1,6 +1,6 @@
 # Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
-### NAME : JANARTHANAN S                                                                       
-### REGISTER NUMBER : 212222040058
+### NAME : richard kalvin r                                                                       
+### REGISTER NUMBER : 212222220035
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
 ###  Algorithm:
